@@ -1,8 +1,6 @@
 # DISCOUNT CALCULATOR APP USING FLUTTER
 
 
-[![LinkedIn](https://www.linkedin.com/in/mrhanan/in/muhammad_hanan/) 
-
 ## Features:  
 :white_check_mark:Colorful UI :sparkles:   
 :white_check_mark:Navigations  
@@ -41,9 +39,6 @@
   ## Author
 
 #### Muhammad Hanan 🧑
-[![LinkedIn Link](https://www.linkedin.com/in/mrhanan/)
-
-👉 You can also follow my GitHub Profile to stay updated about my latest projects:
 
 
 Copyright (c) 2025 Muhammad Hanan
